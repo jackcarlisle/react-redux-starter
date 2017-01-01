@@ -8,3 +8,7 @@ Boilerplate for setting up a project with React and Redux (...and react router)
 ## Step 2 - Install dependencies
 
 `npm install`
+
+## Step 3 - Start the project
+
+`npm run dev:start`
